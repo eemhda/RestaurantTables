@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIK299_HT23_Lists", "GIK299_HT23_Lists\GIK299_HT23_Lists.csproj", "{CE9DD8C0-04B3-4C0B-830C-DD94B9C670AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9DD8C0-04B3-4C0B-830C-DD94B9C670AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9DD8C0-04B3-4C0B-830C-DD94B9C670AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9DD8C0-04B3-4C0B-830C-DD94B9C670AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9DD8C0-04B3-4C0B-830C-DD94B9C670AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8961F7C1-6689-44D0-AD8E-BC78C9F04B22}
+	EndGlobalSection
+EndGlobal

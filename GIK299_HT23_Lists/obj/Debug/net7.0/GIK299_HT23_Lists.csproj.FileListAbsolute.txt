@@ -1,0 +1,15 @@
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\bin\Debug\net7.0\GIK299_HT23_Lists.exe
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\bin\Debug\net7.0\GIK299_HT23_Lists.deps.json
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\bin\Debug\net7.0\GIK299_HT23_Lists.runtimeconfig.json
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\bin\Debug\net7.0\GIK299_HT23_Lists.dll
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\bin\Debug\net7.0\GIK299_HT23_Lists.pdb
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\GIK299_HT23_Lists.csproj.AssemblyReference.cache
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\GIK299_HT23_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\GIK299_HT23_Lists.AssemblyInfoInputs.cache
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\GIK299_HT23_Lists.AssemblyInfo.cs
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\GIK299_HT23_Lists.csproj.CoreCompileInputs.cache
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\GIK299_HT23_Lists.dll
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\refint\GIK299_HT23_Lists.dll
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\GIK299_HT23_Lists.pdb
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\GIK299_HT23_Lists.genruntimeconfig.cache
+C:\Users\eem\source\repos\GIK299_HT23_Lists\GIK299_HT23_Lists\obj\Debug\net7.0\ref\GIK299_HT23_Lists.dll
